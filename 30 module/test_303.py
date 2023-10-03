@@ -99,6 +99,6 @@ def test_all_pets_have_unique_names():
     assert len(names) == len(set(names)), "У некоторых питомцев обнаружены одинаковые имена"
 
 
-#python -m pytest -v --driver Chrome --driver-path D:/PycharmProjects/Module28/Module29selenium/tests/chromedriver.exe test_3031.py
+
 
 
